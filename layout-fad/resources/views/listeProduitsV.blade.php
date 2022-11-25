@@ -12,7 +12,7 @@ La liste des produits
 
     {{-- <?php
      echo ("<pre>");
-
+ 
      print_r($p);
      echo ("</pre>");
      echo ("---------------------");
